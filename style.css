@@ -1,0 +1,60 @@
+
+body {
+    background: #dbe2ea;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 40px 15px;
+}
+
+.card {
+    background: white;
+    max-width: 500px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px #0003;
+}
+
+h1 {
+    color: #183153;
+    font-size: 28px;
+}
+
+h2 {
+    color: #183153;
+}
+
+p {
+    color: #555;
+}
+
+img {
+    width: 220px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 15px;
+}
+
+button {
+    background: #183153;
+    color: white;
+    padding: 14px 25px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #315783;
+}
+
+h3 {
+    color: #183153;
+}
+
+audio {
+    width: 100%;
+    margin-top: 15px;
+}
